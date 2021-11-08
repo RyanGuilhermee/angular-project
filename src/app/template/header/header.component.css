@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.header a {
+    font-size: 15px;
+    margin-right: 15px;
+}
+
+.header .big-letter {
+    font-size: 30px;
+}
